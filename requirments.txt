@@ -1,3 +1,5 @@
 flask
 nltk
 PyPDF2
+pandas
+scikit-learn
